@@ -1,0 +1,47 @@
+3.1 The RGB Color System
+
+
+Essential Question:
+
+	How do computer monitors create different colors?
+
+In this lesson, you will...
+
+	1)
+	2)
+	3)
+
+
+Instructions:
+
+[insert video here]
+
+
+You probably remember from your science classes that white light is actually a mixture of all colors in the visible spectrum. 
+
+
+newton's experiment (read book again for summary)
+
+
+However, mixing just the primary colors of light, red, green, and blue, can also give the impression of white light. The monitor on the computer you are using now, your television, and your cell phone all work on the RGB color model. They can produce millions of colors by varying the intensity of red, green, and blue light for each pixel on the screen. 
+
+
+illusion of white, rgb subpixels
+
+
+vary intensities to make other colors as well
+
+
+Related:
+
+YouTube: The Engineer Guy - LCD Monitor Teardown
+https://www.youtube.com/watch?v=jiejNAUwcQ8
+
+YouTube: Bill Nye the Science Guy - Light and Color
+https://www.youtube.com/watch?v=TrhKJwV6YJ8
+
+YouTube: Newton's Prism Experiment
+https://www.youtube.com/watch?v=uucYGK_Ymp0
+
+XKCD: Dorm Poster
+http://xkcd.com/964/

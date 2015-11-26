@@ -1,0 +1,82 @@
+Quiz 3
+
+(11 points, 3 attempts)
+
+This quiz is individual work. You may not discuss the questions with other students, but you may use any reference materials including the Internet and prior work.
+
+
+1. Which of the following is the proper base-10 expansion of the decimal value 8642?
+	
+	a. 8*10^3 + 6*10^2 + 4*10^1 + 2*10^0
+	b. 8*10^4 + 6*10^3 + 4*10^2 + 2*10^1
+	c. 10*8^3 + 10*6^2 + 10*4^1 + 10*2^0
+	d. 8^10 + 6^10 + 4^10 + 2^10
+
+
+2. Which of the following is the proper hexadecimal expansion of #5E9A?
+
+	[ ] 5^16^3 + 14*16^2 + 9*16^1 + 10*16^0
+	[ ] 5^16^4 + 14*16^3 + 9*16^2 + 10*16^1
+	[ ] 5^10^3 + 14*10^2 + 9*10^1 + 10*10^0
+	[ ] 5^16 + 14^16 + 9^16 + 10^16
+
+
+3. What are the component colors produced by computer monitors?
+
+	[ ] Red
+	[ ] Orange
+	[ ] Yellow
+	[ ] Green
+	[ ] Blue
+	[ ] Indego
+	[ ] Violet
+	[ ] Black
+	[ ] White
+
+
+4. What is the decimal value for the blue component in the color #8A049B?
+
+	[	]
+
+
+5. Each of the following colors is blue. Which choice orders the colors from darkest to lightest?
+
+	a. #000033, #000099, #0000EE
+	b. #000099, #000033, #0000EE
+	c. #000099, #0000EE, #000033
+	d. #0000EE, #000033, #000099
+
+
+6. Which component colors does a computer monitor mix to create the illusion of yellow light?
+
+	a. Red and green
+	b. Green and blue
+	c. Orange and green
+	d. No colors are mixed. Yellow light is produced directly.
+
+
+7. What is the hexadecimal color code for the body background of the Mann Bytes Blog website? (Use a color-picker app.)
+
+	[	]
+
+
+8. What is the minimum decimal value for the amount of a component color?
+
+	[	]
+
+
+9. What is the maximum hexadecimal value for the amount of a component color?
+
+	[	]
+
+
+10. How many total colors can be represented using a six-digit hexadecimal color code?
+
+	[	]
+
+
+11. Is a child that is finger painting learning about additive or subtractive color mixing?
+
+	a. Additive
+	b. Subtractive
+
